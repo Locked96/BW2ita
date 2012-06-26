@@ -8,13 +8,13 @@ Esci
 Participate
 Partecipa
 Per partecipare a una Gara Wi-Fi, visita\xfffeil sito del Pokémon Global Link\xf000븀\x0000\xfffe(http://www.pokemon-gl.com) e registrati.\xf000븁\x0000\xfffeSul sito potrai, inoltre, controllare le\xffferegole e il programma degli eventi.\xf000븁\x0000
-Vuoi partecipare alla Gara Wi-Fi?Do you want to quit\xfffethe Wi-Fi Competition?
+Vuoi partecipare alla Gara Wi-Fi?Vuoi uscire dalla\xfffethe Wi-Fi Competition?
 Sì
 No
 Annulla la partecipazione
 Vuoi partecipare alla Gara in Diretta?
 Per saperne di più sulle Gare in Diretta\xfffepuoi consultare il sito Pokémon ufficiale\xf000븀\x0000\xfffe(http://www.pokemon.it).\xf000븁\x0000\xfffeQui troverai informazioni dettagliate\xfffesulle regole e il programma degli eventi.\xf000븁\x0000
-Ｗｉ－Ｆｉたいかい　または\xfffeランダムマッチの　さんかちゅうに\xf000븀\x0000\xfffeほんたいの　でんげんが　きれたため\xf000븁\x0000\xfffe１じかん\xfffeたいかいや　ランダムマッチで\xf000븀\x0000\xfffeたいせんが　できなくなります\xf000븁\x0000\xfffeじかんが　たちましたら\xfffeおこしください\xf000븁\x0000
+Ｗｉ－ＦｉTorneo\xfffe causale o con un amico\xf000븀\x0000\xfffeほんたいの　でんげんが　きれたため\xf000븁\x0000\xfffe１Tempo\xfffe Concorsi o partite casuali\xf000븀\x0000\xfffe Non è in grado di partecipare\xf000븁\x0000\xfffe E' ora di cominciare\xfffe Seguitemi\xf000븁\x0000
 \xfffeis saving! Don't turn of the power!
-たいせんの　せいかを　たたえて\xfffeバトルポイントを　しんてい　いたします\xf000븁\x0000
-\xf000Ā\x0001\x0000は　バトルポイントを\xfffe\xf000ȁ\x0001\x0001ＢＰ　てにいれた！\xf000븁\x0000
+Continuare o Lasciare la sfida?\xfffe Punti assegnati\xf000븁\x0000
+\xf000Ā\x0001\x0000 E' il momento di\xfffe\xf000ȁ\x0001\x0001ＢＰ　Ottiene！\xf000븁\x0000
