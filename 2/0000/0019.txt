@@ -80,72 +80,72 @@ Vuoi rinunciare all'incontro e uscire ora?
 Non è molto efficace...
 È così confuso da colpirsi da solo!
 Brutto colpo!
-But there was no PP left\xfffefor the move!
-\xf000Ā\x0001\x0000 came to the rescue\xfffeto restore \xf000Ă\x0001\x0001's health!
-The sunlight turned harsh!
-It started to rain!
-A sandstorm kicked up!
-It started to hail!
-Fog crept up as thick as soup!
-The sunlight faded.
-The rain stopped.
-The sandstorm subsided.
-The hail stopped.
-The fog lifted.
-The effects of weather disappeared.
-The sandstorm rages.
-The hail crashes down.
-It's a one-hit KO!
-The \xf000ĉ\x0001\x0000 weakened\xfffe\xf000ć\x0001\x0001's power!
-The \xf000ĉ\x0001\x0000 allows the\xfffeuse of only \xf000ć\x0001\x0001!
-\xf000Č\x0001\x0000 can use only\xfffe\xf000ć\x0001\x0001!
-All stat changes were eliminated!
-But nothing happened!
+Non hai più PP\xfffeper questa mossa!
+\xf000Ā\x0001\x0000 vieni in soccorso\xfffeper ripristinare la salute di\xffe\xf000Ă\x0001\x0001!
+La luce del sole torna normale!
+Inizia a piovere!
+La tempesta di sabbia colpisce!
+Inizia a grandinare!
+la nebbia è spessa come una zuppa!
+La luce del Sole è sbiadita.
+la pioggia cessa.
+la tempesta di sabbia si placa.
+La grandine cessa.
+la nebbia si solleva.
+Gli effetti dell'acqua scompaiono.
+La tempesta di sabbia infuriata.
+La grandine cade al suolo.
+K.O con un colpo!
+La \xf000ĉ\x0001\x0000 forza di\xfffe\xf000ć\x0001\x0001 \xfffeviene indebolita!
+La \xf000ĉ\x0001\x0000 consente\xfffesolo l'uso di \xf000ć\x0001\x0001!
+\xf000Č\x0001\x0000 puoi usare solo\xfffe\xf000ć\x0001\x0001!
+Tutte le statistiche sono state eliminate!
+Ma non è successi niente!
 \xf000Ă\x0001\x0000's\xfffe\xf000Ć\x0001\x0001
-Magnitude 4!
-Magnitude 5!
-Magnitude 6!
-Magnitude 7!
-Magnitude 8!
-Magnitude 9!
-Magnitude 10!
-A bell chimed!
-A soothing aroma wafted\xfffethrough the area!
-The battlers shared\xfffetheir pain!
-Fire's power was weakened!
-Electricity's power was weakened!
-The twisted dimensions returned\xfffeto normal!
-Gravity intensified!
-Gravity returned to normal!
-All Pokémon hearing the song\xfffewill faint in three turns!
-Waggling a finger\xfffelet it use \xf000ć\x0001\x0000!
-Nature Power turned into\xfffe\xf000ć\x0001\x0000!
-Coins were scattered everywhere!
-It was too weak to make\xfffea substitute!
-Reflect raised your team's\xfffeDefense!
-Reflect raised the\xfffeopposing team's Defense!
-Your team's Reflect\xfffewore off!
-The opposing team's Reflect\xfffewore off!
-Light Screen raised your team's\xfffeSpecial Defense!
-Light Screen raised\xfffethe opposing team's Special Defense!
-Your team's Light Screen\xfffewore off!
-The opposing team's Light Screen\xfffewore off!
-Your team became cloaked in\xfffea mystical veil!
-The foe's team became\xfffecloaked in a mystical veil!
-Your team is no longer protected\xfffeby Safeguard!
-The foe's team is no longer protected\xfffeby Safeguard!
-Your team became\xfffeshrouded in mist!
-The foe's team became\xfffeshrouded in mist!
-Your team is no longer protected\xfffeby mist!
-The foe's team is no longer protected\xfffeby mist!
-The tailwind blew from behind\xfffeyour team!
-The tailwind blew from behind\xfffethe foe's team!
-Your team's tailwind petered out!
-The foe's team's tailwind petered out!
-The Lucky Chant shielded your team\xfffefrom critical hits!
-The Lucky Chant shielded the opposing team\xfffefrom critical hits!
-Your team's Lucky Chant wore off!
-The opposing team's Lucky Chant wore off!
+Magnitudo 4!
+Magnitudo 5!
+Magnitudo 6!
+Magnitudo 7!
+Magnitudo 8!
+Magnitudo 9!
+Magnitudo 10!
+Suonò la campana!
+Un soave odore si espandeva\xfffeattraverso l'area!
+I combattenti hanno condiviso\xfffeil loro dolore!
+Potenza di fuoco è stata indebolita!
+Potenza elettrica è stata indebolita!
+Le dimensioni contorte sono\xfffetornate normali!
+La gravità s'intensifica!
+La gravità torna normale!
+Tutti i pokémon che ascoltano questo\xfffecanto moriranno in meno\xfffedi tre turni!
+Agitando un dito usa \xfffe\xf000ć\x0001\x0000!
+La forza della natura si trasforma in\xfffe\xf000ć\x0001\x0000!
+Le monete erano sparse ovunque!
+E' troppo stanco per essere\xfffesostituitp!
+Riflesso aumenta la Difesa\xfffedella tua squadra!
+Riflesso aumenta la Difesa\xfffedella squadra avversaria!
+Il riflesso della tua squadra\xfffeè svanito!
+Il riflesso della squadra\xfffeavversaria è svanito!
+Schermoluce aumenta la Dif. Sp\xfffedella tua squadra!
+Schermoluce aumenta la Dif. Sp\xfffedella squadra avversaria!
+Schermoluce della tua squadra\xfffeè svanito!
+Schermoluce della squadra\xfffeavversaria è svanito!
+La tua squadra è avvolta\xfffein un velo mistico!
+La squadra avversaria è\xfffeavvolta in un velo mistico!
+La tua squadra non è più\xfffeprotetta da Salvaguardia!
+La squadra avversaria non è più\xfffeprotetta da Salvaguardia!
+La tua squadra è avvolta\xfffedalla nebbia!
+La squadra avversiaria è\xfffeavvolta dalla nebbia!
+La tua squadra non è più\xfffenascosta dalla nebbia!
+La squadra avversaria non è\xfffepiù nascosta dalla nebbia!
+Il vento in coda soffia dietro\xfffela tua squadra!
+Il vento in coda soffia dietro\xfffela squadra avversaria!
+Il vento in coda della tua squadra\xfffeèsvanito!
+Il vento in coda della squadra\xfffeavversaria è svanito!
+Fortuncanto protegge la tua squadra\xfffedai brutti colpi!
+Fortuncanto protegge la squadra\xfffeavversaria dai brutti colpi!
+Fortuncanto della tua squadra\xfffeè svanito!
+Fortuncanto della squadra\xfffeavversaria è svanito!
 Spikes were scattered all around\xfffeyour team's feet!
 Spikes were scattered all around\xfffethe feet of the foe's team!
 The spikes disappeared from\xfffearound your team's feet!
