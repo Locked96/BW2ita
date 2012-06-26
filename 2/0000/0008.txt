@@ -1,64 +1,64 @@
-BATTLE VIDEOS
-BATTLE SUBWAY
-RANDOM MATCHUP
-CANCEL
-QUIT
-MY VIDEO
-OTHER VIDEOS
-DELETE VIDEOS
+VIDEO BATTAGLIE
+BATTAGLIE METROPOLITANA
+MATCH CASUALI
+CANCELLA
+ESCI
+MIEI VIDEO
+ALTRI VIDEO
+CANCELLA VIDEO
 \xf000봂\x0000\xf000Ā\x0001\x0000'S VIDEO
-EMPTY
+VUOTO
 \xf000ȃ\x0001\x0000
-Battle
+Battaglie
 \xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002
 \xf000봂\x0000Video no.:\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002★
 \xf000봂\x0000\xf000Ā\x0001\x0000'S PROFILE
 Mute
-\xf000봂\x0000\xf000ȁ\x0001\x0000Born in 
-\xf000봂\x0000Location
+\xf000봂\x0000\xf000ȁ\x0001\x0000 Nato il 
+\xf000봂\x0000 Luogo
 \xf000봂\x0000Trainer's quote
 Data
-Profile
+Profilo
 
-Unregistered
+Annulla la resgistrazione
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
 \xf000Ĝ\x0001\x0000　\xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000'S VIDEO
-DELETE MY VIDEO
-DELETE OTHER VIDEOS
+CANCELLA I MIEI VIDEO
+cANCELLA ALTRI VIDEO
 あき
 \xf000Ā\x0001\x0000　のきろくをけす
-SEARCH BY RANK
-データをおくる
+SEARCH PER GRADO
+INSERIRE DATI
 NEWEST 30
-SEARCH
-SEARCH BY NO.
-SEARCH BY FACILITY
-SEARCH BY POKÉMON
-SEARCH YOUR LOCATION
-LINK BATTLES
-BATTLE SUBWAY
-SEND PHOTO
-VIEW PHOTOS
-SEND
-Please choose the Pokémon you want to see.
+CERCA
+CERCA PER NO.
+CERCA PER FACILITY
+CERCA PER POKÉMON
+CERCA LA TUA POSIZIONE
+LINK BATTAGLIE
+BATTAGLIE METROPOLITAN
+INVIA FOTO
+GUARDA FOTO
+INVIA
+Perfavore scegli i pokemon che vuoi vedere.
 \xf000Ā\x0001\x0000　の　しゃしん\xfffe\xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
-しゃしん
-Send Box Data
-View Box Data
+FOTO
+Invia nel Box Data
+Guarda il Box Data
 Favorite
-Cool
-Cute
-Suggested
-Fun
-Select
+Tranquillo
+Carino
+Suggestionato
+Divertente
+Seleziona
 ボックス
-くわしくみる
-ア
-カ
-サ
+Per saperne di più
+A
+Sostenere
+Dati
 タ
 ナ
 ハ
@@ -66,18 +66,18 @@ Select
 ヤ
 ラ
 ワ
-This Week’s Rankings
-Last Week’s Rankings
-Switch Rankings
-Switch Teams
+Rankings di questa settimana
+Rankings della settimana scorsa
+Scambio Rankings
+Scambio Teams
 チーム：トレーナータイプ
 チーム：うまれたつき
 チーム：すきなポケモン
 \xf000Ā\x0001\x0001：\xf000Ď\x0001\x0000
-\xf000Ā\x0001\x0001：\xf000ȁ\x0001\x0000がつうまれ
+\xf000Ā\x0001\x0001：\xf000ȁ\x0001\x0000 Acquisti
 \xf000Ā\x0001\x0001：\xf000ā\x0001\x0000
 \xf000ȁ\x0001\x0000 \xf000Ď\x0001\x0001
-\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001がつ
+\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001 Mese
 \xf000ȁ\x0001\x0000：\xf000ā\x0001\x0001
 Last Week’s Results!
 Colosseum
