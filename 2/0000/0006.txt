@@ -146,16 +146,16 @@ I tuoi strumenti sono stati\xfffeorganizzati!
 フリースペースへ
 もとのポケットへ
 Perfavore seleziona gli\xfffeche stai guardando!
-\xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
-\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　いどう　しました！
-\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
+\xf000Ē\x0001\x0000に sono state travate delle bacche\xfffe\xf000Ȃ\x0001\x0001 Tipi di bacche！
+\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　è stato spostato！
+\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　è stato restituito！
 In che modo vuoi organizzarli?
 Per tipo
 Per nome
-おおいじゅん
+Dal più grande al più piccolo
 Dal più piccolo al più grande
 Ordine numerico
-もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
+Inventario\xfffe\xf000Ȃ\x0001\x0001 Tipo trovato！
 \xfffeOrganizzati per nome!
 Non trovato
 Metti via
