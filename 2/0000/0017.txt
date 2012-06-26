@@ -130,73 +130,73 @@ Schermoluce aumenta la\xfffeDifesa Sp. della tua squadra!
 Schermoluce aumenta la\xfffeDifesa Sp. della squadra nemica!
 L'effetto di Schermoluce \xfffesvanisce!
 L'effetto di Schermoluce nemico\xfffesvanisce!
-Your team became cloaked in\xfffea mystical veil!
-The foe's team became\xfffecloaked in a mystical veil!
-Your team is no longer protected\xfffeby Safeguard!
-The foe's team is no longer protected\xfffeby Safeguard!
-Your team became\xfffeshrouded in mist!
-The foe's team became\xfffeshrouded in mist!
-Your team is no longer protected\xfffeby mist!
-The foe's team is no longer protected\xfffeby mist!
-The tailwind blew from behind\xfffeyour team!
-The tailwind blew from behind\xfffethe foe's team!
-Your team's tailwind petered out!
-The foe's team's tailwind petered out!
-The Lucky Chant shielded your team\xfffefrom critical hits!
-The Lucky Chant shielded the opposing team\xfffefrom critical hits!
-Your team's Lucky Chant wore off!
-The opposing team's Lucky Chant wore off!
-Spikes were scattered all around\xfffeyour team's feet!
-Spikes were scattered all around\xfffethe feet of the foe's team!
-The spikes disappeared from\xfffearound your team's feet!
-The spikes disappeared from\xfffearound the foe's team's feet!
-Poison spikes were scattered all\xfffearound your team's feet!
-Poison spikes were scattered all\xfffearound the foe's team's feet!
-The poison spikes disappeared\xfffefrom around your team's feet!
-The poison spikes disappeared\xfffefrom around the foe's team's feet!
-Pointed stones float in the air\xfffearound your team!
-Pointed stones float in the air\xfffearound your foe's team!
-The pointed stones disappeared\xfffefrom around your team!
-The pointed stones disappeared\xfffefrom around the foe's team!
-Wide Guard protected your team!
-Wide Guard protected the foe's team!
-Quick Guard protected your team!
-Quick Guard protected the foe's team!
-A rainbow appeared in the sky\xfffeon your team's side!
-A rainbow appeared in the sky\xfffeon the foe's team's side!
-The rainbow on your team's side\xfffedisappeared!
-The rainbow on the foe's team's side\xfffedisappeared!
-A sea of fire enveloped\xfffeyour team!
-A sea of fire enveloped\xfffethe foe's team!
-The sea of fire around your team\xfffedisappeared!
-The sea of fire around the foe's team\xfffedisappeared!
-A swamp enveloped your team!
-A swamp enveloped the\xfffefoe's team!
-The swamp around your team\xfffedisappeared!
-The swamp around the foe's team\xfffedisappeared!
-Your team is too nervous to\xfffeeat Berries!
-The foe's team is too nervous to\xfffeeat Berries!
-It created a bizarre area in which\xfffethe Defense and Sp. Def stats are swapped!
-Wonder Room wore off, and the Defense\xfffeand Sp. Def stats returned to normal!
-It created a bizarre area in which\xfffePokémon's held items lose their effects!
-Magic Room wore off, and the held items'\xfffeeffects returned to normal!
-The \xf000ĉ\x0001\x0000 strengthened\xfffe\xf000ć\x0001\x0001's power!
-The time limit is up!\xfffeThe battle will end!
-The battle is too long.\xfffePlayback canceled.
-Zen Mode triggered!
-Zen Mode ended!
-The two moves are joined!\xfffeIt's a combined move!
-\xf000Č\x0001\x0000 won't obey!
-\xf000Č\x0001\x0000 is\xfffeloafing around!
-\xf000Č\x0001\x0000 turned away!
-\xf000Č\x0001\x0000 pretended\xfffenot to notice!
-\xf000Č\x0001\x0000 ignored orders!
-\xf000Č\x0001\x0000 began to nap!
-\xf000Č\x0001\x0000 ignored\xfffeorders while asleep!
-Automatic center!
-But it's not where this item\xfffecan be used!
-Sky Drop won't let \xf000Č\x0001\x0000 go!
-The match was forfeited.
+La tua squadra si è avvolta in\xfffeun velo mistico!
+La squadra nemica è\xfffeavvolto in un velo mistico!
+La tua squadra non è più protetta\xfffeda salvaguardia!
+La squadra avversaria non è più protetta\xfffeda salvaguardia!
+La tua squadra è\xfffeavvolta nella nebbia!
+La squadra avversiaria\xfffeè avvolta nella nebbia!
+La tua squadra non è più protetta\xfffedalla nebbia!
+La tua squadra non è più protetta\xfffedalla nebbia!
+Il vento in coda soffia dietro\xfffela tua squadra!
+Il vento in coda soffia dietro\xfffela squadra avversaria!
+Il vento in conda della tua squadra svanisce!
+Il vento in coda della squadra avversiaria svanisce!
+Il Fortuncanto protegge la tua squadra\xfffedai brutti colpi!
+Il Fortuncanto protegge la squadra avversaria\xfffedai brutti colpi!
+Il Fortuncanto della tua squadra svanisce!
+Il fortuncanto della squadra avversaria svanisce!
+Le punte sono sparse intorno\xfffeai piedi della tua squadra!
+Le punte sono sparse intorno\xfffeai piedi dalla squadra avversaria!
+Le punte sono scomparse \xfffeintorno ai piedi della tua squadra!
+le punte sono scomparse\xfffeintorno ai piedi della squadra avverssaria!
+Le punte avvelenate sono sparse\xfffeintorno ai piedi della tua squadra!
+Le punte avvelenate sono sparse\xfffeintorno ai piedi della squadra\xfffeavversaria!
+Le punte avvelenate sono scomparse\xfffedai piedi della tua squadra!
+Le punte avvelenate sono scomparse\xfffedai piedi della squadra\xfffeavversaria!
+Le pietre appuntite fluttuano in aria\xfffeintorno alla tua squadra!
+le pietre appuntite fluttuano in aria\xfffeintorno alla squadra avversaria!
+Le pietre appuntite sono scomparse\xfffeattorno alla tua squadra!
+Le pietre appuntite sono scomparse\xfffeattorno alla squadra avversaria!
+Buonaguardia protegge la tua squadra!
+Buonaguarda protegge la squadra avversaria!
+Quickguardia protegge la tua squadra!
+Quickguardia protegge la squadra avversaria!
+Appare un'arcobaleno nel cielo\xfffesopra la tua squadra!
+Appare un'arcobaleno nel cielo\xfffesopra la squadra avversaria!
+L'arcobaleno sopra la tua\xfffesquadra scompare!
+L'arcobaleno sopra la squadra\xfffeavversaria scompare!
+Un mare di fuoco avvolge\xfffela tua squadra!
+Un mare di fuoco avvolge\xfffela squadra avversaria!
+Il mare di fuoco attorno alla\xfffetua squadra scompare!
+Il amre di fuoco attorno alla\xfffesquadra avversaria scompare!
+Un pantano intrappola la tua squadra!
+Un pantano intrappola la\xfffesquadra avversaria!
+Il pantano attorno alla\xfffetua squadra scompare!
+Il pantano attorno alla\xfffequadra avversaria scompare!
+La tua squadra è troppo nervosa\xfffeper manguare le bacche!
+la squadra avversaria è troppo nervosa\xfffeper mangiare la bacche!
+Si è creata un'area bizzarra dove\xfffela Difesa e la Dif. Sp. sono state\xfffeinvertite!
+L'area bizzarra è scomparsa,\xfffela Difesa e la Dif. Sp. sono tornete\xfffenormali!
+Si è creata un'area bizzarra dove\xfffegli strumenti tenuti dai pokémon\xfffeperdono i loro effetti!
+L'area bizzarra è scomparsa e agli\xfffestrumenti tenuti riacquistano i\xfffepropri effetti!
+Il \xf000ĉ\x0001\x0000 aumenta l'energia di \xfffe\xf000ć\x0001\x0001!
+Il limite di tempo è scaduto\xfffeLa battaglia è finita!
+la battaglia è troppo lunga\xfffeRegistrazione annullata.
+Modalità Zen attivata!
+Modalità Zen disattivata!
+I due movimenti si uniscono!\xfffeE' una mossa combinata!
+\xf000Č\x0001\x0000 non obbedisce!
+\xf000Č\x0001\x0000 è\xfffeimmobile!
+\xf000Č\x0001\x0000 volta le spalle!
+\xf000Č\x0001\x0000 finge\xfffedi non accorgesene!
+\xf000Č\x0001\x0000 ignora gli ordini!
+\xf000Č\x0001\x0000 inizia a dormire!
+\xf000Č\x0001\x0000 ignora\xfffegli ordini mentre dorme!
+Centro Automatica!
+Ma non è questo l'oggetto\xfffeche posso usare!
+Non lascierò cadere il cielo \xf000Č\x0001\x0000 vai!
+La battaglia è stata persa.
 (\xf000Ȁ\x0001\x0000) Metronomo \xf000Ȃ\x0001\x0001:\xf000ć\x0001\x0002
 あっ！　やせい？の\xfffe\xf000ā\x0001\x0000が　あらわれた！
 カット０１
